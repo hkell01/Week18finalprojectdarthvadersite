@@ -1,0 +1,19 @@
+.vaders-vault {
+    margin-top: 40px;
+  }
+  
+  .vaders-vault .card {
+    background-color: #222;
+    color: #fff;
+  }
+  
+  .vaders-vault .card-title {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .vaders-vault .card-text {
+    font-size: 16px;
+    margin-top: 10px;
+  }
+  
